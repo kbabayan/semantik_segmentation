@@ -1,0 +1,15 @@
+colors:
+- [31, 183, 51]
+- [142, 26, 115]
+- [226, 110, 132]
+- [222, 214, 104]
+- [9, 92, 179]
+- [128, 82, 254]
+- [239, 213, 82]
+- [163, 161, 20]
+- [165, 195, 80]
+names: [construction equipment, builder, human, construction crane, civilian car,
+  building equipment, construction machinery, constructor, people]
+nc: 9
+train: ../263713_import-images/images/train
+val: ../263713_import-images/images/val
