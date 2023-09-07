@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "construction machine",
+            "shape": "point",
+            "color": "#A9F538",
+            "geometry_config": {},
+            "id": 11825117,
+            "hotkey": ""
+        },
+        {
+            "title": "builder",
+            "shape": "bitmap",
+            "color": "#4FB562",
+            "geometry_config": {},
+            "id": 11825118,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
